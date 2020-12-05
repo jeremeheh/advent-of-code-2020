@@ -14,5 +14,3 @@ var twoSum = (nums, target) => {
 };
 console.log(data.length);
 console.log(twoSum(data, target));
-
-console.log(1);
